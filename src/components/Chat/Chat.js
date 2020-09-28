@@ -9,8 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT =
-  'http://chatserver-env.eba-mkhhdfsf.us-east-2.elasticbeanstalk.com/';
+const ENDPOINT = 'https://fiserv-chat-server.herokuapp.com/';
 
 let socket;
 
